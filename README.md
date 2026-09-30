@@ -1,6 +1,6 @@
 # Hi, I'm Raja Pandi 👋
 
-**QA Engineer | Test Automation Specialist | 6+ Years of Experience**
+**QA Test Engineer | 6+ Years of Experience**
 
 I'm a passionate QA engineer with extensive experience in both manual and automation testing. I specialize in creating robust test automation frameworks and ensuring software quality through comprehensive testing strategies.
 
@@ -33,7 +33,7 @@ I'm a passionate QA engineer with extensive experience in both manual and automa
 ## 🏆 Key Projects
 
 ### **Hybrid Automation Framework**
-A comprehensive test automation framework built from scratch combining the best practices of keyword-driven and data-driven testing approaches.
+A comprehensive test automation framework built from scratch, combining the best practices of BDD and data-driven testing approaches.
 - Designed for scalability and maintainability
 - Supports multiple browsers and platforms
 - Integrated logging and reporting capabilities
@@ -88,5 +88,3 @@ A comprehensive test automation framework built from scratch combining the best 
 - 🚀 Passionate about creating **scalable and maintainable test frameworks**
 
 ---
-
-**"Quality is not an act, it is a habit." - Aristotle**
